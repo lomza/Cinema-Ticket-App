@@ -1,0 +1,1 @@
+enum CircleSide { left, right }
