@@ -1,12 +1,13 @@
-# cinema_ticket_app
+# Cinema Ticket App
 
-A Flutter app with a beautiful cinema ticket view.
+An example Flutter app with a beautiful cinema ticket view. Not a single asset was used to build it.
 
-## Getting Started
+## Dependencies
 
-This project is a starting point for a Flutter application.
+  * cupertino_icons: ^0.1.3
+  * barcode_flutter: ^1.1.2
+  * intl: 0.16.1
+  * google_fonts: ^1.1.0
+  * dotted_line: ^2.0.1
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+⚠️ Please don't use this code in a production project, as the ticket view is quite expensive to draw and needs to be optimized!
