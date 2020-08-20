@@ -1,6 +1,8 @@
 # Cinema Ticket App
 
-An example Flutter app with a beautiful cinema ticket view. Not a single asset was used to build it.
+![Alt text](cinema_ticket_screenshot.png?raw=true "Cinema Ticket App screenshot")
+
+An example Flutter app with a beautiful cinema ticket view 🎫. Not a single asset was used to build it.
 
 ## Dependencies
 
